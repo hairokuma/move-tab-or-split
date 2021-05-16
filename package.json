@@ -1,9 +1,25 @@
 {
-  "name": "move-tab-or-split",
-  "main": "./lib/move-tab-or-split",
-  "version": "1.1.1",
-  "description": "A short description of your package",
-  "keywords": [],
+  "_from": "https://www.atom.io/api/packages/move-tab-or-split/versions/1.1.1/tarball",
+  "_id": "move-tab-or-split@1.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-nSuHY2c8SSEc8JnhaQ9KVx2QxshkAQPtgwLhhJN4MPGO3iTV+ytMtIEChiMURIY+Xm7N48Xw1l9RaRo9DELOIw==",
+  "_location": "/move-tab-or-split",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/move-tab-or-split/versions/1.1.1/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/move-tab-or-split/versions/1.1.1/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/move-tab-or-split/versions/1.1.1/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/move-tab-or-split/versions/1.1.1/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/move-tab-or-split/versions/1.1.1/tarball",
+  "_shasum": "f1fc01084e55eec4b74c1947991ae329e0e5e0a4",
+  "_spec": "https://www.atom.io/api/packages/move-tab-or-split/versions/1.1.1/tarball",
+  "_where": "/tmp/apm-install-dir-2021415-14590-nvnbgf.mmeo",
   "activationCommands": {
     "atom-workspace": [
       "move-tab-or-split:right",
@@ -12,10 +28,24 @@
       "move-tab-or-split:down"
     ]
   },
-  "repository": "https://github.com/vovanmix/atom-move-tab-or-split",
-  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vovanmix/atom-move-tab-or-split/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "A short description of your package",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "homepage": "https://github.com/vovanmix/atom-move-tab-or-split#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/move-tab-or-split",
+  "name": "move-tab-or-split",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vovanmix/atom-move-tab-or-split.git"
+  },
+  "version": "1.1.1"
 }

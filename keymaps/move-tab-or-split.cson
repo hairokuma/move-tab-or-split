@@ -1,5 +1,5 @@
 'atom-workspace':
-  'ctrl-cmd-right': 'move-tab-or-split:right'
-  'ctrl-cmd-left': 'move-tab-or-split:left'
-  'ctrl-cmd-down': 'move-tab-or-split:down'
-  'ctrl-cmd-up': 'move-tab-or-split:up'
+  'alt-shift-right': 'move-tab-or-split:right'
+  'alt-shift-left': 'move-tab-or-split:left'
+  'alt-shift-down': 'move-tab-or-split:down'
+  'alt-shift-up': 'move-tab-or-split:up'
